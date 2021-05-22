@@ -1,2 +1,4 @@
 # IMEI
 type deviceid_prop, property_type;
+
+type hal_camerapostproc_xiaomi_hwservice, property_type;
